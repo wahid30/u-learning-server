@@ -7,6 +7,7 @@ app.use(cors());
 
 const categories = require("./data/categories.json");
 const course = require("./data/course.json");
+const platform = require("./data/ptalform.json");
 
 app.get("/", (req, res) => {
   res.send("Hello World!");
@@ -17,6 +18,9 @@ app.get("/course", (req, res) => {
 
 app.get("/course-category", (req, res) => {
   res.send(categories);
+});
+app.get("/platform", (req, res) => {
+  res.send(platform);
 });
 app.get("/category/:id", (req, res) => {
   const id = req.params.id;

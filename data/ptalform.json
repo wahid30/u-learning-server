@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "name": "Web",
+    "img": "https://th.bing.com/th/id/R.3690f017c1a4acc253198c36a783af9c?rik=jv1j4agdr5ZiKA&riu=http%3a%2f%2fwww.azinovatechnologies.com%2fblog%2fwp-content%2fuploads%2f2016%2f03%2fweb-development.jpg&ehk=Jlcoaf884VU5qnCVl3gTA4dZpjqXV2uIgttagVepASA%3d&risl=&pid=ImgRaw&r=0",
+    "details": "Web development refers to the building, creating, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites."
+  },
+  {
+    "id": "02",
+    "name": "Programming",
+    "img": "https://media.istockphoto.com/vectors/programming-web-banner-vector-id1169873648",
+    "details": "Programming is a creative process that instructs a computer on how to do a task. Hollywood has helped instill an image of programmers as uber techies who can sit down at a computer and break any password in seconds."
+  },
+  {
+    "id": "03",
+    "name": "Database",
+    "img": "https://image.freepik.com/free-vector/illustration-database-banner-design-with-iconic-style_7505-576.jpg",
+    "details": "Formally, a database refers to a set of related data and the way it is organized. Access to this data is usually provided by a database management system (DBMS) consisting of an integrated set of computer software that allows users to interact with one or more databases and provides access to all of the data contained in the database "
+  },
+  {
+    "id": "04",
+    "name": "Server Site",
+    "img": "https://th.bing.com/th/id/OIP.e-WKDDgpyvceJLxvtg-JxQHaHa?pid=ImgDet&rs=1",
+    "details": "Servers are high-powered computers built to store, process, and manage network data, devices, and systems. Servers are the engines powering organizations by providing network devices and systems with adequate resources. For businesses, servers offer critical scalability, efficiency, and business continuity capabilities.Whether it’s hosting a data-heavy website, setting up a shared drive for a department, or managing thousands of queries every minute, servers are the vehicles for hosting and processing-intensive workloads that go beyond the capabilities of a traditional computer."
+  },
+  {
+    "id": "05",
+    "name": "Framework",
+    "img": "https://thumbs.dreamstime.com/b/framework-banner-template-ribbon-label-sign-179666962.jpg",
+    "details": "Since they are often built, tested, and optimized by several experienced software engineers and programmers, software frameworks are versatile, robust, and efficient.Using a software framework to develop applications lets you focus on the high-level functionality of the application. This is because any low-level functionality is taken care of by the framework itself."
+  },
+  {
+    "id": "06",
+    "name": "Data Analysis",
+    "img": "https://th.bing.com/th/id/R.bf3970c26dc7247190cff4a4f91de33b?rik=xFuYI%2bUIO3QiFg&pid=ImgRaw&r=0",
+    "details": "Data analysis is the science of examining data to conclude the information to make decisions or expand knowledge on various subjects. It consists of subjecting data to operations."
+  },
+  {
+    "id": "07",
+    "name": "XML",
+    "img": "https://i2.wp.com/simmyideas.com/wp-content/uploads/2021/01/XML-File_.jpg?resize=740%2C493&ssl=1",
+    "details": "Extensible Markup Language (XML) is a markup language and file format for storing, transmitting, and reconstructing arbitrary data. It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. The World Wide Web Consortium's XML 1.0 Specification[2] of 1998[3] and several other related specifications[4]—all of them free open standards—define XML.[5]"
+  }
+]
