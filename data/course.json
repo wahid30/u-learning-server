@@ -1,0 +1,388 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 120,
+    "title": "HTML",
+    "image_url": "https://th.bing.com/th/id/OIP.xNRYPjKNWnKkh46rM7B5iAHaEK?pid=ImgDet&rs=1",
+    "details": "HTML stands for Hyper Text Markup Language HTML is the standard markup language for creating Web pagesHTML describes the structure of a Web pageHTML consists of a series of elementsHTML elements tell the browser how to display the contentHTML elements label pieces of content such as this is a heading, this is a paragraph, this is a link, etc."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 488,
+    "title": "SQL",
+    "image_url": "https://th.bing.com/th/id/R.3e7f58bf7c1e57d947eb9013d30cf086?rik=sr0tKWRpEPNssA&pid=ImgRaw&r=0",
+    "details": "SQL stands for Structured Query LanguageSQL lets you access and manipulate databasesSQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987"
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "01",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "price": 150,
+    "title": "CSS",
+    "image_url": "https://th.bing.com/th/id/R.76e142a6dc425dbd725c9a3773dfcd90?rik=L%2fb9UzGUYhuarg&pid=ImgRaw&r=0",
+    "details": "CSS stands for Cascading Style Sheets.CSS describes how HTML elements are to be displayed on screen, paper, or in other media,CSS saves a lot of work. It can control the layout of multiple web pages all at once.External stylesheets are stored in CSS files"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "price": 400,
+    "title": "PYTHON",
+    "image_url": "https://www.technotification.com/wp-content/uploads/2017/05/Python-programming-compressed.jpg",
+    "details": "Python is a popular programminglanguage. It was created by Guido vanRossum, and released in 1991.It is usedfor:webdevelopment (server-side),softwaredevelopment,mathematics,system scripting."
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 980,
+    "title": "MYSQL",
+    "image_url": "https://th.bing.com/th/id/OIP.9u-itELcLxATfBVA_GeV1gHaEK?pid=ImgDet&rs=1",
+    "details": "MySQL is a relational database management systemMySQL is open-sourceMySQL is freMySQL is ideal for both small and large applicationsMySQL is very fast, reliablescalable, and easy to useMySQL is cross-platformMySQL is compliant with the ANSI SQL standardMySQL was first released in 1995MySQL is developeddistributed, and supported by Oracle CorporationMySQL is named after co-founder Monty Widenius's daughter: My"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 980,
+    "title": "BOOTSTRAP",
+    "image_url": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5-Facebbok.png",
+    "details": "Bootstrap is a free front-end framework for faster and easier web development.Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.Bootstrap also gives you the ability to easily create responsive designs"
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 350,
+    "title": "JAVASCRIPT",
+    "image_url": "https://th.bing.com/th/id/OIP.Hjc8FC1BWNglgfxUSaB9XQHaD4?pid=ImgDet&rs=1",
+    "details": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced."
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 111,
+    "title": "MONGODB",
+    "image_url": "https://th.bing.com/th/id/R.ac4450df33164c12afa5468dd6e45d9a?rik=Yqe%2bsqelYiH2Zw&pid=ImgRaw&r=0",
+    "details": "MongoDB is a document database and can be installed locally or hosted in the cloud.MongoDB is a document database. It stores data in a type of JSON format called BSON.If you are unfamiliar with JSON, check out our JSON tutorial.A record in MongoDB is a document, which is a data structure composed of key value pairs similar to the structure of JSON objects."
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 733,
+    "title": "PHP",
+    "image_url": "https://th.bing.com/th/id/OIP.TZ_u_nIYAQCBvpVyPoswugHaDt?pid=ImgDet&rs=1",
+    "details": "PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.Before you continue you should have a basic understanding of the following:HTML,CSS,JavaScript.If you want to study these subjects first, find the tutorials on our Home page."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 733,
+    "title": "NODE.JS",
+    "image_url": "https://th.bing.com/th/id/OIP.U_0Of2ht_UFjabtOpE2JZwHaD4?pid=ImgDet&rs=1",
+    "details": "Node.js is an open source server environment.Node.js is free.Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).Node.js uses JavaScript on the server"
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 127,
+    "title": "BOOTSTRAP",
+    "image_url": "https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5-Facebbok.png",
+    "details": "Bootstrap is a free front-end framework for faster and easier web development.Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.Bootstrap also gives you the ability to easily create responsive designs"
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 127,
+    "title": "TAILWIND",
+    "image_url": "https://th.bing.com/th/id/R.98e88ed8ec1241a0b4d2a32c69938c7f?rik=acu8zUAo60RVVQ&pid=ImgRaw&r=0",
+    "details": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.It's fast, flexible, and reliable — with zero-runtime."
+  },
+
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 700,
+    "title": "C Programming",
+    "image_url": "https://th.bing.com/th/id/OIP.9bC-74o0lgO4dF_XfwW7BgHaEK?pid=ImgDet&rs=1",
+    "details": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.Our C tutorials will guide you to learn C programming one step at a time."
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "category_id": "07",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 300,
+    "title": "XML",
+    "image_url": "https://th.bing.com/th/id/R.85d2e3391ae352b0ad44386920decbef?rik=vI%2fDp8Fv7A4BeQ&pid=ImgRaw&r=0",
+    "details": "XML stands for eXtensible Markup Language.XML is a markup language much like HTML.XML was designed to store and transport data.XML was designed to be self-descriptive.XML is a W3C Recommendation"
+  },
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 220,
+    "title": "REACT",
+    "image_url": "https://th.bing.com/th/id/R.c3905c0b987b95985650e9628e0f2ac7?rik=eEBFLIK3NWpNGA&pid=ImgRaw&r=0",
+    "details": "React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook.React is a tool for building UI components."
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 220,
+    "title": "JAVASCRIPT",
+    "image_url": "https://th.bing.com/th/id/OIP.Hjc8FC1BWNglgfxUSaB9XQHaD4?pid=ImgDet&rs=1",
+    "details": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced."
+  },
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 552,
+    "title": "C++",
+    "image_url": "https://th.bing.com/th/id/R.a7d8f67886e8820a2e4f94cefde486d7?rik=BZpFetBoCHePpQ&pid=ImgRaw&r=0&sres=1&sresct=1",
+    "details": "C++ is a cross-platform language that can be used to create high-performance applications.C++ was developed by Bjarne Stroustrup, as an extension to the C language.C++ gives programmers a high level of control over system resources and memory.The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20."
+  },
+  {
+    "_id": "919db97c34e0778b387dd40cdfa08130",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 89,
+    "title": "NODE.JS",
+    "image_url": "https://th.bing.com/th/id/OIP.U_0Of2ht_UFjabtOpE2JZwHaD4?pid=ImgDet&rs=1",
+    "details": "Node.js is an open source server environment.Node.js is free.Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).Node.js uses JavaScript on the server"
+  },
+  {
+    "_id": "acb9b6785b62698fc6130db7615965e1",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 879,
+    "title": "NODE.JS",
+    "image_url": "https://th.bing.com/th/id/OIP.U_0Of2ht_UFjabtOpE2JZwHaD4?pid=ImgDet&rs=1",
+    "details": "Node.js is an open source server environment.Node.js is free.Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).Node.js uses JavaScript on the server"
+  },
+  {
+    "_id": "1b03149456470f1bec662062d930bf46489",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 546,
+    "title": "JAVA",
+    "image_url": "https://getwallpapers.com/wallpaper/full/6/7/d/491909.jpg",
+    "details": "Java is a popular programming language, created in 1995.It is owned by Oracle, and more than 3 billion devices run Java.It is used for:Mobile applications (specially Android apps)Desktop applicationsWeb applicationsWeb servers and application serversGamesDatabase connectionAnd much, much more!"
+  },
+  {
+    "_id": "1b03149c50f1bec662062d930bf46489",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 546,
+    "title": "C#",
+    "image_url": "https://th.bing.com/th/id/OIP.9aIHle2VZTtvQVH7GeCLuAHaEK?pid=ImgDet&rs=1",
+    "details": "C# is pronounced C-Sharp.It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. C# has roots from the C family, and the language is close to other popular languages like C++ and Java.The first version was released in year 2002. The latest version, C# 10, was released in November 2021."
+  },
+  {
+    "_id": "7f5b80c1cdd474496fyjy18883eae07349",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 1870,
+    "title": "GIT",
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/04/What-is-Git.jpg",
+    "published_date": "Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.It is used for:Tracking code changes Tracking who made changes Coding collaboration"
+  },
+  {
+    "_id": "7f5b80c1cdd4df0111918883eae07349",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 1870,
+    "title": "ASP",
+    "image_url": "https://th.bing.com/th/id/R.7539f5792fcaf81f3137eb37a9f0c92d?rik=6yVApxT0WwTx2A&pid=ImgRaw&r=0",
+    "published_date": "2022-08-24 18:00:00",
+    "details": "ASP stands for Active Server Pages.ASP is a development framework for building web pages.ASP and ASP.NET are server side technologies.Both technologies enable computer code to be executed by an Internet server.When a browser requests an ASP or ASP.NET file, the ASP engine reads the file, executes any code in the file, and returns the result to the browser."
+  },
+  {
+    "_id": "174d266b79d2fcd850cd43254c3aeb95f",
+    "category_id": "07",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "price": 354,
+    "title": "XML AJAX",
+    "image_url": "https://i.pinimg.com/originals/77/a9/53/77a953a5eb81d30688ec01408fbf3743.png",
+    "details": "AJAX is a developer's dream, because you can:Update a web page without reloading the page.Request data from a server - after the page has loaded.Receive data from a server - after the page has loaded.Send data to a server - in the background"
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f078",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "DJANGO",
+    "image_url": "https://www.educative.io/v2api/editorpage/4851104629129216/image/5817722754564096",
+    "details": "Django is a Python framework that makes it easier to create web sites using Python.Django takes care of the difficult stuff so that you can concentrate on building your web applications.Django emphasizes reusability of components, also referred to as DRY (Don't Repeat Yourself), and comes with ready-to-use features like login system, database connection and CRUD operations (Create Read Update Delete)."
+  },
+  {
+    "_id": "17232346bd2fcd85srfg4d983c3aeb95f",
+    "category_id": "07",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "price": 354,
+    "title": "XML DOM",
+    "image_url": "https://th.bing.com/th/id/OIP.popmbqTcvAAN3_smkwzS_QHaEH?pid=ImgDet&rs=1",
+    "details": "The DOM defines a standard for accessing and manipulating documents:The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document.The HTML DOM defines a standard way for accessing and manipulating HTML documents. It presents an HTML document as a tree-structure.The XML DOM defines a standard way for accessing and manipulating XML documents. It presents an XML document as a tree-structure."
+  },
+  {
+    "_id": "61f56456168f7b15aadecb1d1fc80c72f0",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "FLASK",
+    "image_url": "https://tudip.com/wp-content/uploads/2021/01/Auth0_implementation_with_flask_framework_facebook.jpg",
+    "details": "One of the popular Python frameworks used by developers for web development is Flask. In this article, you will get introduced to Python Flask framework. Along with this, we will also see some of the basic implementations along with some HTTP methods."
+  },
+  {
+    "_id": "17dsfg266b79d2fcd85dafgarg983c3aeb95f",
+    "category_id": "07",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "price": 354,
+    "title": "XML DTD",
+    "image_url": "https://th.bing.com/th/id/R.9cb657b8ae113f9a03392b6cfe58bcc8?rik=BNyLQ1AQXNGP5Q&pid=ImgRaw&r=0",
+    "details": "A DTD is a Document Type Definition. A DTD defines the structure and the legal elements and attributes of an XML document.With a DTD, independent groups of people can agree on a standard DTD for interchanging data.An application can use a DTD to verify that XML data is valid."
+  },
+  {
+    "_id": "61f9cerjhbghsdg44657b1b1d1fc80c72f0",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "AI",
+    "image_url": "https://ai-med.io/wp-content/uploads/2020/05/Dr-AI.AI-Image.2.png",
+    "details": "Artificial Intelligence suggest that machines can mimic humans in:Talking,Thinking,Learning,Planning,Understanding.Artificial Intelligence is also called Machine Intelligence and Computer Intelligence."
+  },
+  {
+    "_id": "17dsfg266b3453fcd85dafgarg983c33453455f",
+    "category_id": "07",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "price": 354,
+    "title": "XML SCHEMA",
+    "image_url": "https://image2.slideserve.com/5361986/xml-schema-n.jpg",
+    "details": "An XML Schema describes the structure of an XML document.The XML Schema language is also referred to as XML Schema Definition (XSD)."
+  },
+  {
+    "_id": "61f9ce16eg5b15aadecb1d1fc80c72f0",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "LARAVEL",
+    "image_url": "https://th.bing.com/th/id/R.4669d2b3f0581de905d6f9aaa27b9142?rik=p3bkE6ZcNOqg8Q&pid=ImgRaw&r=0",
+    "details": "The following article provides an outline for What is Laravel Framework? Laravel is one of the world’s most popular PHP frameworks for building web applications from small to large projects. Due to its performance, features and scalability, Laravel is the choice of professional developers. You can customize Laravel so quickly that you can build your own project structure to meet your web application requirements. In addition, you can write a self-explicit and expressive code by using the beautiful, elegant syntax of Laravel."
+  },
+  {
+    "_id": "17djfhg266b79d2fcd856575478g983454654eb95f",
+    "category_id": "07",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "price": 354,
+    "title": "XML XQUERY",
+    "image_url": "https://th.bing.com/th/id/OIP.CXfu7_6G9dupLRmh9VIddgHaEK?pid=ImgDet&rs=1",
+    "details": "XQuery is the language for querying XML data.XQuery for XML is like SQL for databases.XQuery is built on XPath expressions.XQuery is supported by all major databases.XQuery is a W3C Recommendation"
+  },
+  {
+    "_id": "61f9cerjht5644657dsthdh1fc80c72f0",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "MACHINE LEARNING",
+    "image_url": "https://th.bing.com/th/id/R.54fbfba6292e55e95bd34aaf77da4856?rik=oSAOdnAq5HJuwA&pid=ImgRaw&r=0",
+    "details": "Machine Learning is making the computer learn from studying data and statistics. Machine Learning is a step into the direction of artificial intelligence (AI).Machine Learning is a program that analyses data and learns to predict the outcome."
+  },
+  {
+    "_id": "61f9ce1635625b15aadecb1d1fc80c72f0",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "VUE.JS",
+    "image_url": "https://th.bing.com/th/id/OIP.Ve8s2wOzcP0qpU37-wQKlAHaEK?pid=ImgDet&rs=1",
+    "details": "Vue.js is an open-source progressive JavaScript framework used to develop interactive web user interfaces and single-page applications. Vue.js is mainly focused on the view part of the application that is also called front end development."
+  },
+  {
+    "_id": "61f9cerfjfd644657b1b1d1fc80c72f0",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "DATA SCIENCE",
+    "image_url": "https://th.bing.com/th/id/OIP.ZLbB5YMM1YWrWdTtEI_wUAHaEK?pid=ImgDet&rs=1",
+    "details": "Data Science is about data gathering, analysis and decision-making.Data Science is about finding patterns in data, through analysis, and make future predictions.By using Data Science, companies are able to make:Better decisions (should we choose A or B)Predictive analysis (what will happen next?)Pattern discoveries (find pattern, or maybe hidden information in the data)"
+  },
+  {
+    "_id": "61f9ce168f7b1gheghcb1d1fc80c72f7",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "AWS CLOUD",
+    "image_url": "https://th.bing.com/th/id/OIP.dWP6BOdYBWRErlFtUcNoWwHaDL?pid=ImgDet&rs=1",
+    "details": "AWS (Amazon Web Services) is a cloud computing platform.The first product (S3) was released in 2006.AWS has grown a lot since then in both size and product range.It is, to date, the largest cloud provider in the world."
+  },
+  {
+    "_id": "61f9cerjht564535657b1b1d1fc80c72f0",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "NUMPY",
+    "image_url": "https://th.bing.com/th/id/R.32868d6e91db361d3918f25b5384fb92?rik=hXcfXw1CyRobVA&pid=ImgRaw&r=0&sres=1&sresct=1",
+    "details": "NumPy is a Python library used for working with arrays.It also has functions for working in domain of linear algebra, fourier transform, and matrices.NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.NumPy stands for Numerical Python."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1dvfdsgtewrtyw4580c72f7",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "RASPBERRY PI",
+    "image_url": "https://www.learnrobotics.org/wp-content/uploads/2019/01/Raspberry-Pi-Node-RED-tutorial-1024x576.jpg",
+    "details": "The Raspberry Pi is a small, affordable, and amazingly capable, credit card size computer.It is developed by the Raspberry Pi Foundation, and it might be the most versatile tech ever created.Creator Eben Upton's goal was to create a low-cost device that would improve programming skills and hardware understanding.    Due to the small size and price of the device, it has become the center of a wide range of projects by tinkerers, makers, and electronics enthusiasts."
+  },
+  {
+    "_id": "61f9cerjht5644657b1b1d1fc80c72f0",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "MATPLOTLIB",
+    "image_url": "https://3.bp.blogspot.com/-nT7wwLaIOdc/Vx8d-JxJJ7I/AAAAAAAAC3Y/m-2AIr7DaisomY3YFBEnpMqVO5JpLWvQACLcB/s640/matplotlib.png",
+    "details": "Matplotlib is a low level graph plotting library in python that serves as a visualization utility.Matplotlib was created by John D. Hunter.Matplotlib is open source and we can use it freely.Matplotlib is mostly written in python, a few segments are written in C, Objective-C and Javascript for Platform compatibility."
+  },
+  {
+    "_id": "61f9ce168f7b45634gfbadecb1d1fc80c72f7",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "DJANGO",
+    "image_url": "https://www.educative.io/v2api/editorpage/4851104629129216/image/5817722754564096",
+    "details": "Django is a Python framework that makes it easier to create web sites using Python.Django takes care of the difficult stuff so that you can concentrate on building your web applications.Django emphasizes reusability of components, also referred to as DRY (Don't Repeat Yourself), and comes with ready-to-use features like login system, database connection and CRUD operations (Create Read Update Delete)."
+  },
+  {
+    "_id": "61f29cerjht5644657b143d134c80c72f0",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "STATISTICS",
+    "image_url": "https://th.bing.com/th/id/R.43466c3913dbf86dc2cffe72b5bcbd14?rik=AA7NZrnIwXzoSA&pid=ImgRaw&r=0",
+    "details": "Statistics is used in all kinds of science and business applications.Statistics gives us more accurate knowledge which helps us make better decisions.Statistics can focus on making predictions about what will happen in the future. It can also focus on explaining how different things are connected."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "price": 100,
+    "title": "FLASK",
+    "image_url": "https://tudip.com/wp-content/uploads/2021/01/Auth0_implementation_with_flask_framework_facebook.jpg",
+    "details": "One of the popular Python frameworks used by developers for web development is Flask. In this article, you will get introduced to Python Flask framework. Along with this, we will also see some of the basic implementations along with some HTTP methods."
+  }
+]
