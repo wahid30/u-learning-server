@@ -5,8 +5,11 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
+// for categories
 const categories = require("./data/categories.json");
+// for all courses
 const course = require("./data/course.json");
+// for platform courses
 const platform = require("./data/ptalform.json");
 
 app.get("/", (req, res) => {
